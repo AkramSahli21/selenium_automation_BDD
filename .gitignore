@@ -1,2 +1,9 @@
 .*exe 
+
+# sbteclipse plugin
+.target
+
+
+
+# Maven stuff
 target/
